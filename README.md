@@ -64,3 +64,5 @@ python-multipart
 
 🔮Contributing
 Contributions welcome! Please open issues or submit pull requests.
+
+## NOTE:- In This projects upload any pdf or txt file and this GEN AI summerise this and Give output in MAX.>150 words.
